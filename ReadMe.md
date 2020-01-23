@@ -1,5 +1,12 @@
 # A new PC algorithm.
 
+
+| Graph Size | Connectivity /Big Node Connectivity | No. of CI tests | Alpha | Description |
+| ---        | --- | --- | --- | --- |
+| 30         |   | | | | 
+| 30         |    | | | |
+
+
 **2020-01-08**
 
 - Add delta_L: in each round l, test in priority neighbors all l, l+1, ..., l+deltaL subsets, then from other nodes, test all l subsets.
