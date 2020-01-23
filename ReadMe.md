@@ -1,4 +1,4 @@
-** A new PC algorithm.
+# A new PC algorithm.
 
 **2020-01-08**
 
